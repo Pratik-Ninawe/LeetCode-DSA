@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0633-sum-of-square-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0868-push-dominoes) |
+| [2128-reverse-prefix-of-word](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Binary Search
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1170-shortest-common-supersequence](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1170-shortest-common-supersequence) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2128-reverse-prefix-of-word](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2128-reverse-prefix-of-word](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3001-apply-operations-to-maximize-score) |
