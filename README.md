@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Trie
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Prefix Sum
@@ -181,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
