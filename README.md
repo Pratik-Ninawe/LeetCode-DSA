@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0368-largest-divisible-subset](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -96,11 +98,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0041-first-missing-positive](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Linked List
