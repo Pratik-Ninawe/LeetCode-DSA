@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Queue
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0868-push-dominoes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0868-push-dominoes) |
 ## Dynamic Programming
 |  |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Counting
 |  |
