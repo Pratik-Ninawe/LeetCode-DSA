@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Sorting
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3001-apply-operations-to-maximize-score) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
