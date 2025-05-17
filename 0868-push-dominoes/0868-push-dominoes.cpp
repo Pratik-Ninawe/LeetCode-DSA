@@ -1,30 +1,32 @@
 class Solution {
 public:
-    static string pushDominoes(string dominoes) {
-        const int n=dominoes.size();
-        vector<int> L(n);
-        int F=0;
-        for(int i=n-1; i>=0; i--){
-            const char c=dominoes[i];
-            switch(c){
-                case 'L': F=n; break;
-                case 'R': F=0; break;
-                case '.': F-=(F>0);
+    string pushDominoes(string s) {
+        s = 'L' + s + 'R';
+        string res;
+
+        int prev = 0;
+        for (int curr = 1; curr < s.size(); ++curr) {
+            if (s[curr] == '.') {
+                continue;
             }
-            L[i]=F;
-        }
-        F=0;
-        for(int i=0; i<n; i++){
-            char& c=dominoes[i];
-            switch(c){
-                case 'L': F=0; break;
-                case 'R': F=n; break;
-                case '.': 
-                    F-=(F>0);
-                    if (F>L[i]) c='R';
-                    else if (F<L[i]) c='L';
+
+            int span = curr - prev - 1;
+            if (prev > 0) 
+                res += s[prev];
+
+            if (s[prev] == s[curr]) {
+                res += string(span, s[prev]);
             }
+            else if (s[prev] == 'L' && s[curr] == 'R') {
+                res += string(span, '.');
+            }
+            else { 
+                res += string(span / 2, 'R')
+                     + string(span % 2, '.')
+                     + string(span / 2, 'L');
+            }
+            prev = curr;
         }
-        return dominoes;
+        return res;
     }
 };
