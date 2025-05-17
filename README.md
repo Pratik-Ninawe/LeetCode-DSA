@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0868-push-dominoes) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Binary Search
 |  |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## String
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0868-push-dominoes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0868-push-dominoes) |
 <!---LeetCode Topics End-->
