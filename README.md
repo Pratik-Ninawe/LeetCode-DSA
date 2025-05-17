@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
 | [0952-word-subsets](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0952-word-subsets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0768-partition-labels](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Queue
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0952-word-subsets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0633-sum-of-square-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
+| [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
 ## Recursion
 |  |
 | ------- |
