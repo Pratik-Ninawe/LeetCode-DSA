@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0368-largest-divisible-subset](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0368-largest-divisible-subset](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Queue
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0368-largest-divisible-subset](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0868-push-dominoes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0868-push-dominoes) |
 ## Hash Table
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0048-rotate-image) |
+| [0368-largest-divisible-subset](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
 ## Recursion
 |  |
 | ------- |
