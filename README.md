@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Queue
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1170-shortest-common-supersequence](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1170-shortest-common-supersequence) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Backtracking
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
