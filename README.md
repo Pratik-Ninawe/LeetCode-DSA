@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0319-bulb-switcher](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0633-sum-of-square-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
@@ -325,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
