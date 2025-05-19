@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0038-count-and-say) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0229-majority-element-ii) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
