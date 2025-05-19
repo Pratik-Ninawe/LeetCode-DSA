@@ -208,11 +208,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [1477-product-of-the-last-k-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2050-count-good-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2050-count-good-numbers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3001-apply-operations-to-maximize-score) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0002-add-two-numbers) |
+| [2050-count-good-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
