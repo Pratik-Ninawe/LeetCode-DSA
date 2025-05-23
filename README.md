@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2681-put-marbles-in-bags](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3321-type-of-triangle) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3639-zero-array-transformation-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2681-put-marbles-in-bags](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Queue
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3001-apply-operations-to-maximize-score) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3321-type-of-triangle) |
 ## Monotonic Queue
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0868-push-dominoes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3637-count-number-of-balanced-permutations) |
 ## Hash Table
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -345,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2509-minimize-xor](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2509-minimize-xor) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Number Theory
 |  |
