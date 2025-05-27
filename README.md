@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2050-count-good-numbers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3001-apply-operations-to-maximize-score) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3321-type-of-triangle) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3637-count-number-of-balanced-permutations) |
