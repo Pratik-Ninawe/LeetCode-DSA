@@ -1,27 +1,28 @@
 class Solution {
 public:
-    void dfs(int current, int distance, const vector<int>& edges, vector<int>& distances) {
-        while (current != -1 && distances[current] == -1) {
-            distances[current] = distance++;
-            current = edges[current];
+    vector<int> dfs(vector<int>edges,int nodes){
+        vector<int>v(edges.size(),-1);
+        int i=0;
+        while(nodes != -1 && v[nodes] == -1){
+            v[nodes] = i++;
+            nodes = edges[nodes];
         }
+        return v;
     }
-
-    int closestMeetingNode(vector<int>& edges, int start1, int start2) {
-        int res = -1, Min_Of_Max = INT_MAX, n = edges.size();
-        vector<int> dist1(n, -1), dist2(n, -1);
-        dfs(start1, 0, edges, dist1);
-        dfs(start2, 0, edges, dist2);
-
-        for (int i = 0; i < n; i++) {
-            if (dist1[i] >= 0 && dist2[i] >= 0) {
-                int maxDist = max(dist1[i], dist2[i]);
-                if (maxDist < Min_Of_Max) {
-                    Min_Of_Max = maxDist;
-                    res = i;
+    int closestMeetingNode(vector<int>& edges, int node1, int node2) {
+        vector<int>v1 = dfs(edges,node1);
+        vector<int>v2 = dfs(edges,node2);
+        int maxa = INT_MAX;
+        int result  = -1;
+        for(int i=0;i<v2.size();i++){
+            if(v1[i] != -1 && v2[i] != -1){
+                int dist = max(v1[i],v2[i]);
+                if(dist< maxa){
+                    result = i;
+                    maxa = dist;
                 }
             }
         }
-        return res;
+        return result;
     }
 };
