@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0945-snakes-and-ladders](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0952-word-subsets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0945-snakes-and-ladders](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0945-snakes-and-ladders](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0945-snakes-and-ladders) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
