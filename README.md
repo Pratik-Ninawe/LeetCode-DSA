@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0135-candy) |
 | [0164-maximum-gap](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0189-rotate-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0670-maximum-swap](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0768-partition-labels) |
