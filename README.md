@@ -436,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
