@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2509-minimize-xor) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3447-clear-digits) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Counting
 |  |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2128-reverse-prefix-of-word](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3447-clear-digits) |
 ## Monotonic Stack
