@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2681-put-marbles-in-bags](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2681-put-marbles-in-bags) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3194-find-words-containing-character) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0633-sum-of-square-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2509-minimize-xor](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2681-put-marbles-in-bags) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
