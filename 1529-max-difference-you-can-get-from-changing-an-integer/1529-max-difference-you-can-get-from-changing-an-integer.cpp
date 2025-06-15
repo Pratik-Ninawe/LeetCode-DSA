@@ -1,20 +1,45 @@
 class Solution {
 public:
     int maxDiff(int num) {
-        string numStr = to_string(num);
-        set<char> uniqueDigits(numStr.begin(), numStr.end());
-        int maxVal = num, minVal = num;
-
-        for (char digit : uniqueDigits) {
-            for (char newDigit = '0'; newDigit <= '9'; ++newDigit) {
-                if (numStr[0] == digit && newDigit == '0') continue;
-                string newNumStr = numStr;
-                replace(newNumStr.begin(), newNumStr.end(), digit, newDigit);
-                int newNum = stoi(newNumStr);
-                maxVal = max(maxVal, newNum);
-                minVal = min(minVal, newNum);
+        string str = to_string(num);
+        string mini = str;
+        string maxi = str;
+        char ch = 'a';
+        for(int i = 0; i < maxi.size(); i++){
+            if(maxi[i] != '9'){
+                ch = maxi[i];
+                break;
             }
         }
-        return maxVal - minVal;
+        for(int i = 0; i < maxi.size(); i++){
+            if(maxi[i] == ch) maxi[i] = '9';
+        }
+        
+        ch = 'a';
+
+        if(str[0] == '1'){
+            for(int i = 0; i < mini.size(); i++){
+                if(mini[i] != '1' && mini[i] > '0'){
+                    ch = mini[i];
+                    break;
+                }
+            }
+        }
+        else{
+            for(int i = 0; i < mini.size(); i++){
+                if(mini[i] > '1'){
+                    ch = mini[i];
+                    break;
+                }
+            }
+        }
+        
+        for(int i = 0; i < mini.size() && ch != 'a' ; i++){
+            if(mini[i] == ch) mini[i] = str[0] == '1' ? '0' : '1';
+        }
+
+        int min_num = stoi(mini);
+        int max_num = stoi(maxi);
+        return (max_num - min_num);
     }
 };
