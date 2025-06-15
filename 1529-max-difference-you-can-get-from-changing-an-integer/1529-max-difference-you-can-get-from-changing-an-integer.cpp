@@ -15,7 +15,6 @@ public:
                 minVal = min(minVal, newNum);
             }
         }
-
         return maxVal - minVal;
     }
 };
