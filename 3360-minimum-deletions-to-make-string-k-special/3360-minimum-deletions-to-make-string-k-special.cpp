@@ -1,22 +1,27 @@
 class Solution {
 public:
     int minimumDeletions(string word, int k) {
-        unordered_map<char, int> cnt;
-        for (auto &ch : word) {
-            cnt[ch]++;
+        int n = word.size();
+        vector<int> freq(26, 0);
+        for(char c : word) freq[c - 'a']++;
+        vector<int> m;
+        for(int i = 0; i < 26; i++)
+        {
+            if(freq[i] > 0) m.push_back(freq[i]);
         }
-        int res = word.size();
-        for (auto &[_, a] : cnt) {
-            int deleted = 0;
-            for (auto &[_, b] : cnt) {
-                if (a > b) {
-                    deleted += b;
-                } else if (b > a + k) {
-                    deleted += b - (a + k);
-                }
+        sort(m.begin(), m.end());
+        int ans = INT_MAX;
+        for(int i = 0; i < m.size(); i++)
+        {
+            int b = m[i];
+            int cnt = 0;
+            for(int j = 0; j < m.size(); j++)
+            {
+                if(m[j] < b) cnt += m[j];
+                else if(m[j] > b + k) cnt += m[j] - (b + k);
             }
-            res = min(res, deleted);
+            ans = min(ans, cnt);
         }
-        return res;
+        return ans;
     }
 };
