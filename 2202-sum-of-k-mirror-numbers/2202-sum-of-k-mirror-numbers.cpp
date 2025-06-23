@@ -1,46 +1,48 @@
+typedef long long ll;
 class Solution {
 public:
-    long long createPalindrome(long long num, bool odd) {
-        long long x = num;
-        if (odd) x /= 10;
-        while (x > 0) {
-            num = num * 10 + x % 10;
-            x /= 10;
-        }
-        return num;
-    }
+    vector<ll> mirror1{0}, mirror2{0};
 
-    bool isPalindrome(long long num, int base) {
-        vector<int> digits;
-        while (num > 0) {
-            digits.push_back(num % base);
-            num /= base;
+    bool isMirror(ll num, int base){
+        ll mul = 1;
+        while(mul * base <= num){
+            mul *= base;
         }
-        int i = 0, j = digits.size() - 1;
-        while (i < j) {
-            if (digits[i++] != digits[j--]) return false;
+        for(; num; mul/= base * base){
+            if(num / mul != num%base) return false;
+            num = (num - (num/mul) * mul - num%base)/base;
         }
         return true;
     }
 
-    long long kMirror(int k, int n) {
-        long long sum = 0;
-        for (long long len = 1; n > 0; len *= 10) {
-            for (long long i = len; n > 0 && i < len * 10; i++) {
-                long long p = createPalindrome(i, true);
-                if (isPalindrome(p, k)) {
-                    sum += p;
-                    n--;
-                }
-            }
-            for (long long i = len; n > 0 && i < len * 10; i++) {
-                long long p = createPalindrome(i, false);
-                if (isPalindrome(p, k)) {
-                    sum += p;
-                    n--;
+    ll generate(int dig, int n, int k, ll firstMul){
+        vector<ll> mirror;
+        ll res = 0;
+        for(int i=0; n>0 && i<10; i++){
+            for(int j=0; n>0 && j<mirror1.size(); j++){
+                mirror.push_back(firstMul * i + mirror1[j]*10 + i);
+                if(i != 0 && isMirror(mirror.back(), k)){
+                    res += mirror.back();
+                    --n;
                 }
             }
         }
-        return sum;
+        swap(mirror1, mirror2);
+        swap(mirror2, mirror);
+        return res + (n == 0 ? 0 : generate(dig + 1, n, k, firstMul*10));
+    }
+
+    long long kMirror(int k, int n) {
+        ll ans = 0;
+        for(int i=1; n>0 && i<10; i++){
+            mirror2.push_back(i);
+            if(isMirror(i,k)){
+                ans += i;
+                --n;
+            }
+        }
+        return ans + generate(2, n, k, 10);
     }
 };
+
+/*honestly, i don't exactly know this solution but copied it.*/
