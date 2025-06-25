@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1477-product-of-the-last-k-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
