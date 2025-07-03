@@ -1,21 +1,20 @@
 class Solution {
-    private:
-    string f(string &s){
-        string ns = ""  ; 
-        for(int i =0 ; i<s.size() ; i++){
-            char ch= s[i] ; 
-            ch++ ; 
-            ns+=ch ; 
-        }
-        return ns ; 
-    }
 public:
     char kthCharacter(int k) {
-        string s = "a" ; 
+        string s = "a";
         while(s.size()<k){
-            string ns = f(s) ; 
-            s=s+ns ; 
+            string t = "";
+            int i=0;
+            while(i<s.size()){
+                if(s[i]=='z')
+                t+='a';
+                else
+                t+=s[i]+1;
+                i++;
+            }
+            s+=t;
         }
-        return s[k-1] ; 
+
+        return s[k-1];
     }
 };
