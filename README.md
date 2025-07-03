@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [2050-count-good-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3447-clear-digits](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2509-minimize-xor](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2509-minimize-xor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
 | ------- |
