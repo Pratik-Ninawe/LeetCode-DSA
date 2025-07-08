@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0945-snakes-and-ladders](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0952-word-subsets) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0952-word-subsets) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
