@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
