@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0056-merge-intervals) |
+| [0068-text-justification](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0068-text-justification) |
 | [1048-clumsy-factorial](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1048-clumsy-factorial) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
