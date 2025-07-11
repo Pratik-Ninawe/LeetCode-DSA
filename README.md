@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
