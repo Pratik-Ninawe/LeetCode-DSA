@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0319-bulb-switcher](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0441-arranging-coins](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0441-arranging-coins) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
