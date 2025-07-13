@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2681-put-marbles-in-bags](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2681-put-marbles-in-bags) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2128-reverse-prefix-of-word](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2681-put-marbles-in-bags) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
