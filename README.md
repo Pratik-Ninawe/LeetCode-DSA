@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
+| [0371-sum-of-two-integers](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
 | [2509-minimize-xor](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2509-minimize-xor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
