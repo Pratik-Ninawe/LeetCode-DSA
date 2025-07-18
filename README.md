@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0189-rotate-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0071-simplify-path](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0392-is-subsequence) |
