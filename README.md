@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1170-shortest-common-supersequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
