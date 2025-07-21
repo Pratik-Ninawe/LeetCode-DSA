@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0443-string-compression) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
