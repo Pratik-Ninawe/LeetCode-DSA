@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1764-maximum-repeating-substring](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1764-maximum-repeating-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2128-reverse-prefix-of-word](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2128-reverse-prefix-of-word) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0868-push-dominoes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1764-maximum-repeating-substring](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0686-repeated-string-match) |
+| [1764-maximum-repeating-substring](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1764-maximum-repeating-substring) |
 ## Simulation
 |  |
 | ------- |
