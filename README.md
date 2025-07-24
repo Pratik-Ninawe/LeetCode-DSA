@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0386-lexicographical-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0386-lexicographical-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2509-minimize-xor](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2509-minimize-xor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
