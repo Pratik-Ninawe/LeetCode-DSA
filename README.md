@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0566-reshape-the-matrix](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0682-baseball-game) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0566-reshape-the-matrix](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0945-snakes-and-ladders) |
 ## Heap (Priority Queue)
 |  |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0068-text-justification) |
+| [0566-reshape-the-matrix](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [1048-clumsy-factorial](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1048-clumsy-factorial) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
