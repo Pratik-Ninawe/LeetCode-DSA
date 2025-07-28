@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
+| [0861-flipping-an-image](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0945-snakes-and-ladders](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0952-word-subsets) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0768-partition-labels) |
+| [0861-flipping-an-image](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0868-push-dominoes) |
 | [2128-reverse-prefix-of-word](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0566-reshape-the-matrix](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
+| [0861-flipping-an-image](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0945-snakes-and-ladders) |
 ## Heap (Priority Queue)
 |  |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0068-text-justification](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0068-text-justification) |
 | [0566-reshape-the-matrix](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0682-baseball-game) |
+| [0861-flipping-an-image](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [1048-clumsy-factorial](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1048-clumsy-factorial) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
+| [0861-flipping-an-image](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2509-minimize-xor](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2509-minimize-xor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
