@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0686-repeated-string-match](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0768-partition-labels) |
+| [0782-jewels-and-stones](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0952-word-subsets) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0768-partition-labels) |
+| [0782-jewels-and-stones](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0952-word-subsets) |
