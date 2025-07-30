@@ -662,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0176-second-highest-salary) |
 ## Union Find
 |  |
 | ------- |
