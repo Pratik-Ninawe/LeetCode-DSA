@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
 | [0861-flipping-an-image](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0868-push-dominoes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1764-maximum-repeating-substring](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1764-maximum-repeating-substring) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
 | [0861-flipping-an-image](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0861-flipping-an-image) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2509-minimize-xor) |
