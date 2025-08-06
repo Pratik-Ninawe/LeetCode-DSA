@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -705,8 +707,10 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
