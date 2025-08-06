@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0029-divide-two-integers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0190-reverse-bits) |
+| [0260-single-number-iii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
