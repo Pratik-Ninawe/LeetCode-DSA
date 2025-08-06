@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0279-perfect-squares](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0371-sum-of-two-integers) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0279-perfect-squares](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0463-island-perimeter) |
