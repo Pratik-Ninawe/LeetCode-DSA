@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0169-majority-element) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0268-missing-number) |
