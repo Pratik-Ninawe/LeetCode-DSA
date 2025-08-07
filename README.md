@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0686-repeated-string-match](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0742-to-lower-case) |
