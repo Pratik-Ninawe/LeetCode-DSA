@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0135-candy](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
+| [0561-array-partition](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0561-array-partition) |
 | [0670-maximum-swap](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-friends-of-appropriate-ages](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0852-friends-of-appropriate-ages) |
@@ -738,4 +741,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3791-fruits-into-baskets-iii) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
