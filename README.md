@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0777-toeplitz-matrix) |
 | [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
 | [0841-shortest-distance-to-a-character](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0841-shortest-distance-to-a-character) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0852-friends-of-appropriate-ages](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
