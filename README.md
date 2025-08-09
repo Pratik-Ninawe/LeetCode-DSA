@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0279-perfect-squares) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0390-elimination-game](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2050-count-good-numbers) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0338-counting-bits) |
