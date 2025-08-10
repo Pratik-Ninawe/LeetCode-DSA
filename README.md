@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0852-friends-of-appropriate-ages](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0852-friends-of-appropriate-ages) |
+| [0900-reordered-power-of-2](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0768-partition-labels](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0952-word-subsets) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0670-maximum-swap](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0670-maximum-swap) |
 | [0728-self-dividing-numbers](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1048-clumsy-factorial) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -714,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0900-reordered-power-of-2) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
