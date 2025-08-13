@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0747-min-cost-climbing-stairs](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0777-toeplitz-matrix) |
+| [0790-global-and-local-inversions](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
 | [0841-shortest-distance-to-a-character](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-friends-of-appropriate-ages](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0852-friends-of-appropriate-ages) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0670-maximum-swap](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0670-maximum-swap) |
 | [0728-self-dividing-numbers](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0728-self-dividing-numbers) |
 | [0755-reach-a-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0755-reach-a-number) |
+| [0790-global-and-local-inversions](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1013-fibonacci-number) |
