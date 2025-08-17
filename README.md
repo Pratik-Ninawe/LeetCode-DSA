@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0867-new-21-game](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1013-fibonacci-number) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0790-global-and-local-inversions](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0830-largest-triangle-area) |
+| [0867-new-21-game](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1048-clumsy-factorial) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1813-maximum-erasure-value) |
@@ -774,4 +777,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0830-largest-triangle-area) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
