@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0777-toeplitz-matrix](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0777-toeplitz-matrix) |
 | [0790-global-and-local-inversions](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-friends-of-appropriate-ages](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [0861-flipping-an-image](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0861-flipping-an-image) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0755-reach-a-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0755-reach-a-number) |
 | [0790-global-and-local-inversions](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1048-clumsy-factorial) |
@@ -764,4 +766,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0561-array-partition) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
