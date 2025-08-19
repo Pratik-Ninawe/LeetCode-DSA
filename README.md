@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
