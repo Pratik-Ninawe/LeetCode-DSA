@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0755-reach-a-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0755-reach-a-number) |
 | [0852-friends-of-appropriate-ages](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0910-nth-magical-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0910-nth-magical-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0830-largest-triangle-area](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0900-reordered-power-of-2) |
+| [0910-nth-magical-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1048-clumsy-factorial) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
