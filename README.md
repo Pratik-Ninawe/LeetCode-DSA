@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3321-type-of-triangle) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3001-apply-operations-to-maximize-score) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3001-apply-operations-to-maximize-score](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3201-distribute-candies-among-children-ii) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0900-reordered-power-of-2](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0900-reordered-power-of-2) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3201-distribute-candies-among-children-ii) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -802,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0830-largest-triangle-area) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Probability and Statistics
 |  |
 | ------- |
