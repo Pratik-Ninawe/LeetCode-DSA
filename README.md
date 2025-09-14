@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-fruit-into-baskets](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0874-backspace-string-compare](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1170-shortest-common-supersequence) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
