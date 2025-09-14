@@ -4,44 +4,56 @@ using namespace std;
 class Solution {
 public:
     vector<string> spellchecker(vector<string>& wordlist, vector<string>& queries) {
-        unordered_set<string> exact(wordlist.begin(), wordlist.end());
-        unordered_map<string, string> caseMap;
-        unordered_map<string, string> vowelMap;
+        unordered_set<string> exactMatchSet(wordlist.begin(), wordlist.end());
+        unordered_map<string, string> caseInsensitiveMap;
+        unordered_map<string, string> vowelInsensitiveMap;
 
-        for (string w : wordlist) {
-            string lower = toLower(w);
-            string devowel = deVowel(lower);
-            if (!caseMap.count(lower)) caseMap[lower] = w;
-            if (!vowelMap.count(devowel)) vowelMap[devowel] = w;
-        }
-        vector<string> result;
-        for (string q : queries) {
-            if (exact.count(q)) {
-                result.push_back(q);
-            } else {
-                string lower = toLower(q);
-                string devowel = deVowel(lower);
+        auto normalizeVowels = [](const string& word) {
+            string res = word;
+            for (char& c : res) {
+                if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') {
+                    c = '*';
+                }
+            }
+            return res;
+        };
 
-                if (caseMap.count(lower)) result.push_back(caseMap[lower]);
-                else if (vowelMap.count(devowel)) result.push_back(vowelMap[devowel]);
-                else result.push_back("");
+        for (string& word : wordlist) {
+            string lowerWord = word;
+            transform(lowerWord.begin(), lowerWord.end(), lowerWord.begin(), ::tolower);
+
+            if (!caseInsensitiveMap.count(lowerWord)) {
+                caseInsensitiveMap[lowerWord] = word;
+            }
+
+            string vowelNormalized = normalizeVowels(lowerWord);
+            if (!vowelInsensitiveMap.count(vowelNormalized)) {
+                vowelInsensitiveMap[vowelNormalized] = word;
             }
         }
-        return result;
-    }
-private:
-    string toLower(string s) {
-        for (char &c : s) c = tolower(c);
-        return s;
-    }
-    string deVowel(string s) {
-        for (char &c : s) {
-            if (isVowel(c)) c = '*';
+
+        vector<string> results;
+        for (string& query : queries) {
+            if (exactMatchSet.count(query)) {
+                results.push_back(query);
+                continue;
+            }
+
+            string lowerQuery = query;
+            transform(lowerQuery.begin(), lowerQuery.end(), lowerQuery.begin(), ::tolower);
+            if (caseInsensitiveMap.count(lowerQuery)) {
+                results.push_back(caseInsensitiveMap[lowerQuery]);
+                continue;
+            }
+
+            string vowelNormalized = normalizeVowels(lowerQuery);
+            if (vowelInsensitiveMap.count(vowelNormalized)) {
+                results.push_back(vowelInsensitiveMap[vowelNormalized]);
+                continue;
+            }
+
+            results.push_back(""); // No match
         }
-        return s;
-    }
-    bool isVowel(char c) {
-        c = tolower(c);
-        return c=='a'||c=='e'||c=='i'||c=='o'||c=='u';
+        return results;
     }
 };
