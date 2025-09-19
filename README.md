@@ -793,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0183-customers-who-never-order](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0197-rising-temperature) |
+| [0620-not-boring-movies](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0620-not-boring-movies) |
 ## Union Find
 |  |
 | ------- |
