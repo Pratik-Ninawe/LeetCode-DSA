@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3797-design-spreadsheet](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1628-count-submatrices-with-all-ones](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -736,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3797-design-spreadsheet](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3797-design-spreadsheet) |
 ## Brainteaser
 |  |
 | ------- |
