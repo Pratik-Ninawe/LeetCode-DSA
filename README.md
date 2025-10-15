@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3647-zero-array-transformation-iii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Greedy
