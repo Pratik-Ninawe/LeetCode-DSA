@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3321-type-of-triangle) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3201-distribute-candies-among-children-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3321-type-of-triangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3637-count-number-of-balanced-permutations) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1016-subarray-sums-divisible-by-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/3639-zero-array-transformation-i) |
