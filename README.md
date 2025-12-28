@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0852-friends-of-appropriate-ages](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0910-nth-magical-number](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0910-nth-magical-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0777-toeplitz-matrix](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/Pratik-Ninawe/Leetcode-DSA/tree/master/0945-snakes-and-ladders) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Pratik-Ninawe/LeetCode-DSA/tree/master/3748-sort-matrix-by-diagonals) |
